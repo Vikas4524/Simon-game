@@ -22,16 +22,16 @@ body{
 
 
 .red{
-    background-color: rgba(12, 96, 169, 0.548);
+    background-color: red;
 }
 .yellow{
-    background-color: rgba(161, 228, 28, 0.933);
+    background-color: yellow;
 }
 .green{
-    background-color: rgba(21, 214, 21, 0.561);
+    background-color: green;
 }
 .purple{
-    background-color: rgba(185, 8, 185, 0.536);
+    background-color: purple;
 }
 
 
